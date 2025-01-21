@@ -4,6 +4,9 @@ Welcome to **ProScreen**!
 This app revolutionizes how interviews are managed by providing tools for **seamless communication** 🗣️, **real-time collaboration** 🔄, and **efficient workflows** ✅. With features like video calls, screen sharing, and session recording, **ProScreen** ensures every interview is **productive** 📈 and **memorable** 💡.
 
 ---
+⚠️ **Disclaimer:**  
+For the **best experience**, we recommend using **laptops**, **desktops**, or **PCs**.  
+📵 **Note:** Mobile phones are not fully supported at this time.
 
 ## 🌐 **Live Demo**
 
