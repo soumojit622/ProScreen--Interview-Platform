@@ -61,16 +61,47 @@ This project leverages the best-in-class tools and frameworks to deliver a robus
 
 ---
 
-## 💬 **Feedback & Support**
+## 💬 **Contributing 🌍**
 
-We’re always open to feedback and suggestions!  
-Have a feature idea, bug report, or improvement suggestion? Let us know:  
-📂 [Open an Issue](https://github.com/your-repo-link/issues)
+We welcome all contributions! Here's how you can contribute:
 
-For direct support or collaboration inquiries, please contact:  
-📧 **support@your-email.com**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch:
+    ```bash
+    git checkout -b feature-branch
+    ```
+3. 🖊️ Commit your changes:
+    ```bash
+    git commit -m "Add your feature"
+    ```
+4. 🚀 Push the branch:
+    ```bash
+    git push origin feature-branch
+    ```
+5. 🔀 Open a pull request.
 
 ---
 
-🌟 **Thank you for exploring ProScreen!**  
-Let’s make your interviews **effective** ✅, **engaging** 🤝, and **memorable** 💡. 🚀
+## 📧 **Contact ✉️**
+
+For any questions or feedback, feel free to contact me:
+
+- 📧 Email: [soumojitbanerjee22@gmail.com](mailto:soumojitbanerjee22@gmail.com)
+
+---
+
+## 👨‍💻 **Made by [Soumojit Banerjee](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)** 💼
+
+Feel free to connect with me on:  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/soumojit-banerjee-4914b3228/)  
+
+---
+
+## ❤️ **Special Thanks 🙏**
+
+A special thanks to **ChatGPT** for all your support in completing this project! 🌟
+
+---
+
+Feel free to reach out for collaborations or feedback!
+
